@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 84 30" style="enable-background:new 0 0 84 30;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#979797;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Rectangle_1_);}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Rectangle-Copy-15_1_);}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Rectangle-Copy-17_1_);}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Rectangle-Copy-16_1_);}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Rectangle-Copy-18_1_);}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#5D5D5D;}
+</style>
+<g>
+	<rect x="78.2" y="7.9" class="st0" width="4.8" height="12.3"/>
+	<g>
+		<line class="st1" x1="83" y1="3.3" x2="83" y2="24.8"/>
+	</g>
+</g>
+<title>projector</title>
+<desc>Created with Sketch.</desc>
+<g id="Phase-1">
+	<g id="Throw-Calc--New-Design" transform="translate(-256.000000, -1309.000000)">
+		<g id="projector" transform="translate(256.000000, 1309.561147)">
+			
+				<linearGradient id="Rectangle_1_" gradientUnits="userSpaceOnUse" x1="-247.8898" y1="380.2723" x2="-247.8906" y2="380.0242" gradientTransform="matrix(15.9545 0 0 -12.2727 4028.0071 4676.8403)">
+				<stop  offset="0" style="stop-color:#2C2C2C"/>
+				<stop  offset="0.295" style="stop-color:#3C3F3D"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<rect id="Rectangle" x="65" y="7.4" class="st2" width="16" height="12.3"/>
+			
+				<linearGradient id="Rectangle-Copy-15_1_" gradientUnits="userSpaceOnUse" x1="-210.2137" y1="464.1946" x2="-210.2146" y2="463.9807" gradientTransform="matrix(4.286264e-16 7 5 -3.061617e-16 -2261.1946 1496.9421)">
+				<stop  offset="0" style="stop-color:#2C2C2C"/>
+				<stop  offset="0.295" style="stop-color:#3C3F3D"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<rect id="Rectangle-Copy-15" x="56" y="21.9" class="st3" width="5" height="7"/>
+			
+				<linearGradient id="Rectangle-Copy-17_1_" gradientUnits="userSpaceOnUse" x1="-74.5004" y1="440.8833" x2="-74.5005" y2="440.4641" gradientTransform="matrix(1.224647e-16 2 9 -5.510911e-16 -3905.45 176.9398)">
+				<stop  offset="0" style="stop-color:#2C2C2C"/>
+				<stop  offset="0.295" style="stop-color:#3C3F3D"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<rect id="Rectangle-Copy-17" x="53.5" y="26.9" class="st4" width="9" height="2"/>
+			
+				<linearGradient id="Rectangle-Copy-16_1_" gradientUnits="userSpaceOnUse" x1="-210.2137" y1="464.1946" x2="-210.2146" y2="463.9807" gradientTransform="matrix(4.286264e-16 7 5 -3.061617e-16 -2310.1946 1496.9421)">
+				<stop  offset="0" style="stop-color:#2C2C2C"/>
+				<stop  offset="0.295" style="stop-color:#3C3F3D"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<rect id="Rectangle-Copy-16" x="7" y="21.9" class="st5" width="5" height="7"/>
+			
+				<linearGradient id="Rectangle-Copy-18_1_" gradientUnits="userSpaceOnUse" x1="-74.5004" y1="440.8833" x2="-74.5005" y2="440.4641" gradientTransform="matrix(1.224647e-16 2 9 -5.510911e-16 -3952.45 176.9398)">
+				<stop  offset="0" style="stop-color:#2C2C2C"/>
+				<stop  offset="0.295" style="stop-color:#3C3F3D"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<rect id="Rectangle-Copy-18" x="6.5" y="26.9" class="st6" width="9" height="2"/>
+			<path class="st7" d="M1,0h66.7c0.6,0,1,0.4,1,1v25c0,0.6-0.4,1-1,1H1c-0.6,0-1-0.4-1-1V1C0,0.4,0.4,0,1,0z"/>
+		</g>
+	</g>
+</g>
+</svg>
